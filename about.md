@@ -19,9 +19,9 @@ layout: page
 
   <hr style="margin: 3rem 0;" />
 
-  <h2 style="text-align: center;">🎓 Education</h2>
+  <h2 style="text-align: toleft;">🎓 Education</h2>
 
-  <div style="text-align: center; line-height: 1.8;">
+  <div style="text-align: toleft; line-height: 1.8;">
     <p>
       <strong>University of Southampton</strong><br>
       MSc. Acoustical and Vibration Engineering (2023–2025), with Distinction
@@ -34,7 +34,7 @@ layout: page
 
  <hr style="margin: 3rem 0;" />
 
-  <h2 style="text-align: center;">🛠️ Technical Skills</h2>
+  <h2 style="text-align: toleft;">🛠️ Technical Skills</h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2rem; margin-top: 2rem;">
     <div style="flex: 1 1 250px;">
@@ -73,9 +73,9 @@ layout: page
 
   <hr style="margin: 3rem 0;" />
 
-  <h2 style="text-align: center;">💬 Get in Touch</h2>
+  <h2 style="text-align: toleft;">💬 Get in Touch</h2>
 
-  <div style="text-align: center; font-size: 1.1rem;">
+  <div style="text-align: toleft; font-size: 1.1rem;">
     <p>📞 <strong>Phone:</strong> +44 7383 773550</p>
     <p>📧 <strong>Email:</strong> <a href="mailto:rickypranav@outlook.com">rickypranav@outlook.com</a></p>
   </div>
