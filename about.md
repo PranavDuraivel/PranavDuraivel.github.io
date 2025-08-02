@@ -65,11 +65,11 @@ layout: page
     <li>SolidWorks</li>
   </ul>
 
-  <hr style="margin: 2rem 0;" />
+  <hr style="margin: 1rem 0;" />
 
   <h2 style="margin-bottom: 1rem;">💬 Get in Touch</h2>
 
-  <p><strong>Phone:</strong> +44 7383 773550</p>
-  <p><strong>Email:</strong> <a href="mailto:pranavduraivel@outlook.com">pranavduraivel@outlook.com</a></p>
+  <li><strong>Phone:</strong> +44 7383 773550</li>
+  <li><strong>Email:</strong> <a href="mailto:pranavduraivel@outlook.com">pranavduraivel@outlook.com</a></li>
 
 </div>
