@@ -19,7 +19,9 @@ layout: page
 
   <hr style="margin: 2.5rem 0;" />
 
-  <h2>🎓 Education</h2>
+ <div style="width: 100%; padding: 1rem 2rem; font-family: sans-serif; text-align: left;">
+
+  <h2 style="margin-bottom: 1rem;">🎓 Education</h2>
 
   <p>
     <strong>University of Southampton</strong><br>
@@ -31,16 +33,16 @@ layout: page
     B.Tech in Mechanical Engineering (2017–2021), First Class
   </p>
 
-  <hr style="margin: 2.5rem 0;" />
+  <hr style="margin: 2rem 0;" />
 
-  <h2>🛠️ Technical Skills</h2>
+  <h2 style="margin-bottom: 1rem;">🛠️ Technical Skills</h2>
 
-  <h3>🔊 Audio & Acoustics</h3>
+  <h3>🔊 Audio Engineering</h3>
   <ul>
     <li>Signal Processing</li>
     <li>Electroacoustics</li>
     <li>Active Control of Sound and Vibration</li>
-    <li>Basic Machine Learning</li>
+    <li>Machine Learning</li>
   </ul>
 
   <h3>💻 Programming & Scripting</h3>
@@ -52,21 +54,22 @@ layout: page
     <li>C++</li>
     <li>MySQL</li>
     <li>Mathematica</li>
-    <li>JCL / NATURAL</li>
+    <li>JCL</li>
+    <li>NATURAL</li>
   </ul>
 
-  <h3>🧰 Simulation & Design</h3>
+  <h3>🧰 Simulation & Design Tools</h3>
   <ul>
     <li>COMSOL Multiphysics</li>
     <li>AutoCAD</li>
     <li>SolidWorks</li>
   </ul>
 
-  <hr style="margin: 2.5rem 0;" />
+  <hr style="margin: 2rem 0;" />
 
-  <h2>💬 Get in Touch</h2>
+  <h2 style="margin-bottom: 1rem;">💬 Get in Touch</h2>
 
   <p><strong>Phone:</strong> +44 7383 773550</p>
   <p><strong>Email:</strong> <a href="mailto:rickypranav@outlook.com">rickypranav@outlook.com</a></p>
 
-</section>
+</div>
