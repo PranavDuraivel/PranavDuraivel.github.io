@@ -57,7 +57,5 @@ B.Tech in Mechanical Engineering (2017–2021) with First Class
 
 ## 💬 Get in Touch
 
-<ul>
-	<li>Phone No: +44 7383773550</li>
-	<li>Email: rickypranav@outlook.com</li>
-</ul>
+Phone No: +44 7383773550
+Email: rickypranav@outlook.com
