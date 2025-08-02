@@ -17,6 +17,8 @@ layout: page
 
 <p style="text-align: justify;">My curiosity has always revolved around how systems work—be it a vibrating structure, a musical instrument, or a complex software environment. During my Master’s, I focused on vibroacoustic modelling, sound radiation, and finite element analysis. The project involved scanning and modelling an 18th-century square piano to analyse its acoustic behaviour. This work combined CT scanning, experimental testing (hammer test), and numerical optimisation, helping me develop advanced modelling skills using COMSOL Multiphysics, MATLAB, and other simulation tools.</p>
 
+---
+
 ## Education
 
 <strong>University of Southampton</strong>
@@ -24,6 +26,8 @@ MSc. Acoustical and Vibration Engineering (2023–2025) with Distinction
 
 <strong>Pondicherry University</strong>
 B.Tech in Mechanical Engineering (2017–2021) with First Class
+
+---
 
 ## Technical Skills
 
@@ -48,6 +52,8 @@ B.Tech in Mechanical Engineering (2017–2021) with First Class
 - COMSOL Multiphysics
 - AutoCAD
 - SolidWorks
+
+---
 
 ## 💬 Get in Touch
 
