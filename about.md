@@ -32,33 +32,52 @@ layout: page
     </p>
   </div>
 
-## Technical Skills
+ <hr style="margin: 3rem 0;" />
 
-### 🔊 Audio Engineering
-- Signal Processing
-- Electroacoustics
-- Active Control of Sound and Vibration
-- Machine Learning
+  <h2 style="text-align: center;">🛠️ Technical Skills</h2>
 
-### 💻 Programming
-- Python 
-- MATLAB / Simulink
-- OpenCV
-- LaTeX
-- C++
-- MySQL
-- Mathematica
-- JCL
-- NATURAL
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 2rem; margin-top: 2rem;">
+    <div style="flex: 1 1 250px;">
+      <h3>🔊 Audio & Acoustics</h3>
+      <ul>
+        <li>Signal Processing</li>
+        <li>Electroacoustics</li>
+        <li>Active Control of Sound and Vibration</li>
+        <li>Basic Machine Learning</li>
+      </ul>
+    </div>
 
-### 🛠️ Designing Tools
-- COMSOL Multiphysics
-- AutoCAD
-- SolidWorks
+   <div style="flex: 1 1 250px;">
+      <h3>💻 Programming & Scripting</h3>
+      <ul>
+        <li>Python</li>
+        <li>MATLAB / Simulink</li>
+        <li>OpenCV</li>
+        <li>LaTeX</li>
+        <li>C++</li>
+        <li>MySQL</li>
+        <li>Mathematica</li>
+        <li>JCL / NATURAL</li>
+      </ul>
+    </div>
 
----
+   <div style="flex: 1 1 250px;">
+      <h3>🧰 Simulation & Design</h3>
+      <ul>
+        <li>COMSOL Multiphysics</li>
+        <li>AutoCAD</li>
+        <li>SolidWorks</li>
+      </ul>
+    </div>
+  </div>
 
-## 💬 Get in Touch
+  <hr style="margin: 3rem 0;" />
 
-Phone No: +44 7383773550
-Email: rickypranav@outlook.com
+  <h2 style="text-align: center;">💬 Get in Touch</h2>
+
+  <div style="text-align: center; font-size: 1.1rem;">
+    <p>📞 <strong>Phone:</strong> +44 7383 773550</p>
+    <p>📧 <strong>Email:</strong> <a href="mailto:rickypranav@outlook.com">rickypranav@outlook.com</a></p>
+  </div>
+
+</section>
