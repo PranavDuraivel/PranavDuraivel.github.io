@@ -17,11 +17,7 @@
 </p>
 
 <p align="center">
-    Light and Dark themes.
-</p>
-
-<p align="center">
-    <img src="assets/images/profile.jpg" />
+    <img src="assets/images/sample.png" />
 </p>
 
 
