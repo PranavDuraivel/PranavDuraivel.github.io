@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">Minimalist Theme - <a href="https://sergiokopplin.github.io/indigo/"></a></h2>
+    <h2 align="center">Simple Theme<a href="https://sergiokopplin.github.io/indigo/"></a></h2>
 </p>
 
 <p align="center">This is a simple template for portfolio.</p>
