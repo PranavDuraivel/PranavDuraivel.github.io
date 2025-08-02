@@ -70,6 +70,6 @@ layout: page
   <h2 style="margin-bottom: 1rem;">💬 Get in Touch</h2>
 
   <p><strong>Phone:</strong> +44 7383 773550</p>
-  <p><strong>Email:</strong> <a href="mailto:rickypranav@outlook.com">rickypranav@outlook.com</a></p>
+  <p><strong>Email:</strong> <a href="mailto:pranavduraivel@outlook.com">pranavduraivel@outlook.com</a></p>
 
 </div>
